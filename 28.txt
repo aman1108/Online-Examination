@@ -1,0 +1,9 @@
+Q.28 Some results of experiments are given below:
+
+(a)	In phosphorous chloride, P = 22.57%,  Cl = 77.43%
+(b)	In phosphine, P = 91.18%,  H = 8.82%
+(c)	In hydrogen chloride, H = 2.77%, Cl = 97.23%
+The law of combination that obeys the given results is : 
+
+(a)	conservation of mass		(b)	reciprocal proportion	
+ (c)	definite proportion		(d)	Gay Lussac’s law of gaseous volume 

@@ -1,0 +1,4 @@
+Q.18 Which of the following number(s) is/are rational?
+a) sin 15		b) cos 15		
+c) sin15 cos15	d) sin15cos75
+(All the angles are in degree)

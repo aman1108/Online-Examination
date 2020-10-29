@@ -1,0 +1,8 @@
+Q.20 Let ABCD be a square of side lengths 2units. C(b) is the circel 
+through vertices A,B,C,D and C(a) is the circle touching all the sides 
+of the square ABCD. L is a line through A.
+A circle touches the line L and the circle C(a) externally such that
+both the circle are on the same side of the line, then the locus of 
+the centere of the cirlce is
+
+a)ellipse	b) hyperbola 	c) parabola	d) pair of straight line

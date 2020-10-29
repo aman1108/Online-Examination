@@ -1,0 +1,5 @@
+Q.9 If the current is doubled, the deflection in also doubled in
+a) a tangent galvanometer
+b) a moving-coil galvanometer
+c) both
+d) None

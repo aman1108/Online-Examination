@@ -1,0 +1,7 @@
+Q.3 The molar heat capacity of oxygen gas at STP is nearly 2.5 R. As the temperature is increased,
+it gradually increases and approaches 3.5R. The most appropiate reason for this behaviour is that at high temperatures
+
+a) Oxygen does not behave as an ideal gas
+b) Oxygen molecules dissociate in atoms
+c) The molecules collide more frequently
+d) Molecular vibrations gradually become effective

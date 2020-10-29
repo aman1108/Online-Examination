@@ -1,0 +1,4 @@
+Q.4 A dielectric slab is inserted between the plates of an isolated
+capacitor. The force between the plates will
+a) increases			b) decreases
+c) remain unchanged		d) become zero

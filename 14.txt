@@ -1,0 +1,11 @@
+Q.14 The system of linear equations
+		x+ay-z=0
+		ax-y-z=0
+		x+y-az=0
+      has a non-trival solution for
+a) Exactly one value of a 
+b) Exactly three value of a
+c) Exactly two value of a
+d) Infinitely many value of a	
+
+ 

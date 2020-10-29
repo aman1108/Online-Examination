@@ -1,0 +1,11 @@
+Q.19 Let M be a 2x2 symmetric matrix with the integer entries. 
+The M is invertible is
+i) the first column of M is the transpose of the second row of M
+ii) the second column of M is the transpose of the first row of M
+iii) the product of entries in the main diagonal of M is not the 
+	square of an integer.
+iv) M is a diagonal matrix with non-zero entries in the main diagonal
+
+Which of the following is/are true:
+
+a) i,iv 	b)iii,iv	c)ii,iv 	d)i,iii,iv

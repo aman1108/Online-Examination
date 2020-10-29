@@ -1,0 +1,5 @@
+Q.16 If in a triangle PQR, sinp, SinQ, SinR are in A.P. then
+a) the altitudes are in A.P.
+b) the altitudes are in H.P.
+c) the medians are in A.P.
+d) the medians are in G.P.

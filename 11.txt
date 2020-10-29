@@ -1,0 +1,4 @@
+Q.11 A quadratic equation is chosen from the set of all the quadratic equation which are unchanged by squaring their roots. The chance that the choosen equation has equal roots is:
+a) ½		b) 1/3			c)1/4		d) 2/3
+
+

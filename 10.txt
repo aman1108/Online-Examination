@@ -1,0 +1,5 @@
+Q.10 Faraday Constant
+a) depends on the amount of the electrolyte
+b) depends on the current of the electrolyte
+c) is a universal constant
+d) depends on the amount of charged passed through the electrolyte

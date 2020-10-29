@@ -1,0 +1,6 @@
+Q.12 Let f(x)=sinx(sinx + sin3x). Then f(x) is
+a) >=0 only when x>=0	b) <=0 for all real x
+c) >=0 for all real x		d) <=0 only when x<=0
+
+"   >= denotes greater than or equal to
+<= denotes less than or equal to "

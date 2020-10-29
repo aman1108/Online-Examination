@@ -1,0 +1,5 @@
+Q.6 Diffusion current in a p-n junction is greater than the drift current in magnitude
+a) if the junction is forward-biased
+b) if the junction is reverse-biased 
+c) if the junction is unbiases
+d) in no case.

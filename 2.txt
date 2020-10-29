@@ -1,0 +1,6 @@
+Q.2 A satellite is moving with a constant speed 'V' in a circular orbit about the earth.
+An object of mass 'm' is ejected from the satellite such that it just escapes from the gravitaional pull of the earth.
+At the time of its ejection,the Kinetic energy of the object is
+ 
+a)(1/2)m(V*V)	b) m(V*V)
+c)(3/2)m(V*V)   d) 2m(V*V) 

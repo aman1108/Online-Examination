@@ -1,0 +1,6 @@
+Q.29	Which of the following statement is false?
+
+(a)	The difference between rms velocity and mean velocity at any temperature for different gases diminishes as larger and yet larger molar masses are considered.
+(b)	The square of the mean velocity of molecules is equal to square of the rms velocity at a certain temperature.
+(c)	The ratio of the mean velocity to the rms velocity is independent of temperature.
+(d)	The mean K.E. of the gas molecules at any given temperature does and depend on the mean velocity.

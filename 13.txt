@@ -1,0 +1,6 @@
+Q.13 A body wieghing 13 kg is suspended by two strings 5m and 12m long,
+their other ends being fastened to the extremities of a rod 13m long. 
+If the rod be so held that the body hangs immediately below the middle point.
+The tension in the string are
+a) 12kg and 13kg	b) 5kg and 5kg
+c) 5kg and 12kg		d) 5kg and 13kg

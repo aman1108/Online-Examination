@@ -1,0 +1,4 @@
+Q.7 Let F(pp), F(pn) and F(nn) denote the magnitude of the nuclear force by proton on a proton,
+by a proton on a neutron and by a neutron on a neutron respectively. When seperation is 1fm,
+a) F(pp)>F(pn)=F(nn)	b) F(pp)=F(pn)=F(nn)
+c) F(pp)>F(pn)>F(nn)	d) F(pp)<F(pn)=F(nn)
