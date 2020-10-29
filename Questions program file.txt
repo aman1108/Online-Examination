@@ -1,0 +1,174 @@
+Q.1Diameter of the flat surface of a circular plano-convex lens is 6cm and thickness
+at the centre is 3mm. The radius of curvature of the curved part is 
+a) 15cm		b) 20cm		c)30cm		d)10cm
+
+Q.2 A satellite is moving with a constant speed 'V' in a circular orbit about the earth.
+An object of mass 'm' is ejected from the satellite such that it just escapes from the gravitaional pull of the earth.
+At the time of its ejection,the Kinetic energy of the object is
+ 
+a)(1/2)m(V*V)	b) m(V*V)
+c)(3/2)m(V*V)   d) 2m(V*V) 
+
+Q.3 The molar heat capacity of oxygen gas at STP is nearly 2.5 R. As the temperature is increased,
+it gradually increases and approaches 3.5R. The most appropiate reason for this behaviour is that at high temperatures
+
+a) Oxygen does not behave as an ideal gas
+b) Oxygen molecules dissociate in atoms
+c) The molecules collide more frequently
+d) Molecular vibrations gradually become effective
+
+Q.4 A dielectric slab is inserted between the plates of an isolated
+capacitor. The force between the plates will
+a) increases			b) decreases
+c) remain unchanged		d) become zero
+
+Q.5 The Equation E=pc is valid
+a) for an electron as well as for a photon
+b) for an electron but not for a photon
+c) for a photon but not for an electron
+d) neither for an electron nor for a photon.
+
+Q.6 Diffusion current in a p-n junction is greater than the drift current in magnitude
+a) if the junction is forward-biased
+b) if the junction is reverse-biased 
+c) if the junction is unbiases
+d) in no case.
+
+Q.7 Let F(pp), F(pn) and F(nn) denote the magnitude of the nuclear force by proton on a proton,
+by a proton on a neutron and by a neutron on a neutron respectively. When seperation is 1fm,
+a) F(pp)>F(pn)=F(nn)	b) F(pp)=F(pn)=F(nn)
+c) F(pp)>F(pn)>F(nn)	d) F(pp)<F(pn)=F(nn)
+
+Q.8 A moving charge produce
+     a) electric field only	b) magnetic field
+     c) both of them		d) none fo them
+
+Q.9 If the current is doubled, the deflection in also doubled in
+a) a tangent galvanometer
+b) a moving-coil galvanometer
+c) both
+d) None
+
+Q.10 Faraday Constant
+a) depends on the amount of the electrolyte
+b) depends on the current of the electrolyte
+c) is a universal constant
+d) depends on the amount of charged passed through the electrolyte
+
+Q.11 A quadratic equation is chosen from the set of all the quadratic equation which are unchanged by squaring their roots. The chance that the choosen equation has equal roots is:
+a) ½		b) 1/3			c)1/4		d) 2/3
+
+Q.12 Let f(x)=sinx(sinx + sin3x). Then f(x) is
+a) >=0 only when x>=0	b) <=0 for all real x
+c) >=0 for all real x		d) <=0 only when x<=0
+
+"   >= denotes greater than or equal to
+<= denotes less than or equal to "
+
+Q.13 A body wieghing 13 kg is suspended by two strings 5m and 12m long,
+their other ends being fastened to the extremities of a rod 13m long. 
+If the rod be so held that the body hangs immediately below the middle point.
+The tension in the string are
+a) 12kg and 13kg	b) 5kg and 5kg
+c) 5kg and 12kg		d) 5kg and 13kg
+
+Q.14 The system of linear equations
+		x+ay-z=0
+		ax-y-z=0
+		x+y-az=0
+      has a non-trival solution for
+a) Exactly one value of a 
+b) Exactly three value of a
+c) Exactly two value of a
+d) Infinitely many value of a	
+
+ Q.15 The slope of the tangent to the curve y=f(x) at {x,f(x)} is 
+2x+1. If the curve passes through the point (1,2), then the area 
+bounded by the curve, the axis and the line x=1 is
+a) 5/6		b) 6/5 		c)1/6		d)6
+
+Q.16 If in a triangle PQR, sinp, SinQ, SinR are in A.P. then
+a) the altitudes are in A.P.
+b) the altitudes are in H.P.
+c) the medians are in A.P.
+d) the medians are in G.P.
+
+Q.17 The smallesr positive root of the eqation tanx-x=0 lies in
+a) (0,p/2)		b) (p/2,p)
+c) (p,3p/2)		d) (3p/2,2p)
+
+Q.18 Which of the following number(s) is/are rational?
+a) sin 15		b) cos 15		
+c) sin15 cos15	d) sin15cos75
+(All the angles are in degree)
+
+Q.19 Let M be a 2x2 symmetric matrix with the integer entries. 
+The M is invertible is
+i) the first column of M is the transpose of the second row of M
+ii) the second column of M is the transpose of the first row of M
+iii) the product of entries in the main diagonal of M is not the 
+	square of an integer.
+iv) M is a diagonal matrix with non-zero entries in the main diagonal
+
+Which of the following is/are true:
+
+a) i,iv 	b)iii,iv	c)ii,iv 	d)i,iii,iv
+
+Q.20 Let ABCD be a square of side lengths 2units. C(b) is the circel 
+through vertices A,B,C,D and C(a) is the circle touching all the sides 
+of the square ABCD. L is a line through A.
+A circle touches the line L and the circle C(a) externally such that
+both the circle are on the same side of the line, then the locus of 
+the centere of the cirlce is
+
+a)ellipse	b) hyperbola 	c) parabola	d) pair of straight line
+
+Q 21.The equivalent weight of a metal, 6 g of which evolve 5.6 L of H2 at NTP from an acid is:
+
+(a)6		(b)12			(c)24		(d)2.4
+
+Q.22 Chloride of a metal M contains 47.23% of the metal. 1.0 g of this metal displaced from a compound 0.88 g of another metal N.  The equivalent weight of M and N are respectively:
+
+(a)          39.77, 29.96		(b)	63.54, 28	(c)	31.77, 81.7	(d)	31.77, 27.96
+
+Q.23 On heating 0.398 g of a metal oxide in a current of dry hydrogen, 0.09g of water were formed. The equivalent weight of the metal is:
+
+(a)        31.8		(b)	63.6			(c)	15.9		(d)	2.0
+
+Q .24 An element having three isotopes has mass numbers M, M + 1 and M+2. Their mean atomic mass is M + 1.2.  The ratio which corresponds to the given data is :
+
+(a)      1:1:1		(b)	1:2:3			(c)	2:3:4		(d)	1:3:5
+
+Q .25 A certain metal is divalent. 2.65 g of its oxide when reduced in a current of hydrogen leaves 2.454 g of the metal. The atomic weight of the metal will be :
+
+(a)      100.16		(b)	200:32			(c)	50.08		(d)	25.04
+
+Q.26 Silver salt of a dibasic acid weighing 1.8 g gave 1.08 g of silver. The molar mass of the acid is : 
+
+(a)     166 g mol¯	(b)	1.66 g mol¯	(c)	146 g mol¯	(d)	292 g mol¯	
+
+Q.27 ICI contains 77.8%  iodine, Kl contains 23.6% K and KCI contains 52% of K.  These results obey the law of :
+
+(a)	constant composition			(b)	Reciprocal proportion
+(c)	multiple proportion			(d)	conservation of mass
+
+Q.28 Some results of experiments are given below:
+
+(a)	In phosphorous chloride, P = 22.57%,  Cl = 77.43%
+(b)	In phosphine, P = 91.18%,  H = 8.82%
+(c)	In hydrogen chloride, H = 2.77%, Cl = 97.23%
+The law of combination that obeys the given results is : 
+
+(a)	conservation of mass		(b)	reciprocal proportion	
+ (c)	definite proportion		(d)	Gay Lussac’s law of gaseous volume 
+
+Q.29	Which of the following statement is false?
+
+(a)	The difference between rms velocity and mean velocity at any temperature for different gases diminishes as larger and yet larger molar masses are considered.
+(b)	The square of the mean velocity of molecules is equal to square of the rms velocity at a certain temperature.
+(c)	The ratio of the mean velocity to the rms velocity is independent of temperature.
+(d)	The mean K.E. of the gas molecules at any given temperature does and depend on the mean velocity.
+
+Q.30 The percentage of sodium present is the cereal served in breakfast which is labeled to contain 110 mg of sodium per 100 g of cereal, is : 
+
+(a)     2%		(b)	3%		 (c)	1%		(d)	0.11%
